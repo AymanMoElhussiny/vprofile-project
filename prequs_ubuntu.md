@@ -25,7 +25,7 @@ sudo apt install maven
 mvn -version
 ```
 - aws cli
- ```sudo apt-get install awscli```
+```sudo apt-get install awscli```
 - intellijidea
 ```  sudo snap install intellij-idea-community --classic ```
 - vscode
